@@ -1,0 +1,16 @@
+torch==2.8.0
+torchvision==0.23.0
+numpy==2.1.2
+pandas==3.0.1
+matplotlib==3.10.8
+scikit-learn==1.8.0
+scipy==1.17.1
+seaborn==0.13.2
+pillow==11.0.0
+tqdm==4.67.3
+PyYAML==6.0.3
+joblib==1.5.3
+threadpoolctl==3.6.0
+sympy==1.13.3
+networkx==3.3
+requests==2.32.5
